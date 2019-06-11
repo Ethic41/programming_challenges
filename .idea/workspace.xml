@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41fc5323-c862-4696-804f-937b7827f5a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Dahir_Muhammad_Dahir.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/3n+1_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/chef_notebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/elephant_candies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/interpreter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/jolly_jumpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/lcd_display.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/minesweeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/perfect_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/poker_hands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/the_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/chef_and_rainbow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/cops_and_devu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/groovy_problem_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/min_number_of_moves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Dahir_Muhammad_Dahir.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Dahir_Muhammad_Dahir.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/chef_notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/problems/chef_notebook.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +19,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/programming_challenges$min_number_of_moves.coverage" NAME="min_number_of_moves Coverage Results" MODIFIED="1559361907022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems" />
     <SUITE FILE_PATH="coverage/programming_challenges$3n_1_problem.coverage" NAME="3n+1_problem Coverage Results" MODIFIED="1558619207201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems" />
+    <SUITE FILE_PATH="coverage/programming_challenges$chef_and_rainbow.coverage" NAME="chef_and_rainbow Coverage Results" MODIFIED="1559367295513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems" />
     <SUITE FILE_PATH="coverage/programming_challenges$interpreter.coverage" NAME="interpreter Coverage Results" MODIFIED="1558783641702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems" />
     <SUITE FILE_PATH="coverage/programming_challenges$perfect_number.coverage" NAME="perfect_number Coverage Results" MODIFIED="1558644430769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems" />
     <SUITE FILE_PATH="coverage/programming_challenges$jolly_jumpers.coverage" NAME="jolly_jumpers Coverage Results" MODIFIED="1558874642591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems" />
@@ -39,20 +34,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="elephant_candies.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/elephant_candies.py">
+      <file leaf-file-name="cops_and_devu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/cops_and_devu.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chef_notebook.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/chef_notebook.py">
+      <file leaf-file-name="groovy_problem_final.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/groovy_problem_final.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minesweeper.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/minesweeper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4968">
+              <caret line="204" column="34" selection-start-line="204" selection-start-column="34" selection-end-line="204" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -92,6 +96,10 @@
         <option value="$PROJECT_DIR$/problems/poker_hands.py" />
         <option value="$PROJECT_DIR$/problems/elephant_candies.py" />
         <option value="$PROJECT_DIR$/problems/chef_notebook.py" />
+        <option value="$PROJECT_DIR$/problems/min_number_of_moves.py" />
+        <option value="$PROJECT_DIR$/problems/chef_and_rainbow.py" />
+        <option value="$PROJECT_DIR$/problems/groovy_problem_final.py" />
+        <option value="$PROJECT_DIR$/problems/cops_and_devu.py" />
       </list>
     </option>
   </component>
@@ -118,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -136,7 +145,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chef_notebook">
+  <component name="RunManager" selected="Python.chef_and_rainbow">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -178,6 +186,25 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="chef_and_rainbow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="programming_challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/chef_and_rainbow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="chef_notebook" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming_challenges" />
@@ -217,7 +244,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="interpreter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="min_number_of_moves" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming_challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,26 +257,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/interpreter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="jolly_jumpers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="programming_challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/jolly_jumpers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/min_number_of_moves.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,19 +305,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.interpreter" />
-      <item itemvalue="Python.jolly_jumpers" />
       <item itemvalue="Python.poker_hands" />
       <item itemvalue="Python.elephant_candies" />
       <item itemvalue="Python.chef_notebook" />
+      <item itemvalue="Python.min_number_of_moves" />
+      <item itemvalue="Python.chef_and_rainbow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chef_and_rainbow" />
+        <item itemvalue="Python.min_number_of_moves" />
         <item itemvalue="Python.chef_notebook" />
         <item itemvalue="Python.elephant_candies" />
         <item itemvalue="Python.poker_hands" />
-        <item itemvalue="Python.jolly_jumpers" />
-        <item itemvalue="Python.interpreter" />
       </list>
     </recent_temporary>
   </component>
@@ -324,12 +332,18 @@
       <option name="presentableId" value="Default" />
       <updated>1558616501951</updated>
       <workItem from="1558616503330" duration="75040000" />
-      <workItem from="1558956689160" duration="7151000" />
+      <workItem from="1558956689160" duration="7749000" />
+      <workItem from="1559061807422" duration="990000" />
+      <workItem from="1559259691000" duration="10098000" />
+      <workItem from="1559425003557" duration="1270000" />
+      <workItem from="1559566396359" duration="24000" />
+      <workItem from="1559860957400" duration="2095000" />
+      <workItem from="1559898376816" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82191000" />
+    <option name="totallyTimeSpent" value="97934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -344,11 +358,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3200443" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27353266" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26812366" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -372,6 +386,48 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/problems/cops_and_devu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/min_number_of_moves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/elephant_candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/chef_notebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/elephant_candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/chef_notebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problems/poker_hands.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -403,13 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/minesweeper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1896">
-          <caret line="204" column="34" selection-start-line="204" selection-start-column="34" selection-end-line="204" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/3n+1_problem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
@@ -430,14 +479,49 @@
     <entry file="file://$PROJECT_DIR$/problems/elephant_candies.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/chef_and_rainbow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="33" lean-forward="true" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/chef_notebook.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/min_number_of_moves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/cops_and_devu.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/groovy_problem_final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/minesweeper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4968">
+          <caret line="204" column="34" selection-start-line="204" selection-start-column="34" selection-end-line="204" selection-end-column="34" />
         </state>
       </provider>
     </entry>
